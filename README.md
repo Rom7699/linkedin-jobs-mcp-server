@@ -27,7 +27,7 @@ Learn more about MCP from [Anthropic's announcement](https://www.anthropic.com/n
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/linkedin-jobs-mcp.git
+git clone https://github.com/rom7699/linkedin-jobs-mcp.git
 cd linkedin-jobs-mcp
 ```
 
